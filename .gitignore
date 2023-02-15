@@ -1,5 +1,6 @@
 __pycache__/
 *.pyc
+media/
 venv/
 .env
 *.jpg
